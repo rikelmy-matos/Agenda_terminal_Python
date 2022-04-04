@@ -1,2 +1,2 @@
-# projeto1-agenda-python
+# Agenda-python
 Agenda utilizando a linguagem python
